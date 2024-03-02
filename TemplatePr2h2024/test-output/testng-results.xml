@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-02T16:39:58 IST" name="Suite" finished-at="2024-03-02T16:40:11 IST" duration-ms="13334">
+    <groups>
+    </groups>
+    <test started-at="2024-03-02T16:39:58 IST" name="Test" finished-at="2024-03-02T16:40:11 IST" duration-ms="13334">
+      <class name="testCases.TestCases">
+        <test-method is-config="true" signature="start()[pri:0, instance:testCases.TestCases@6ae5aa72]" started-at="2024-03-02T16:39:58 IST" name="start" finished-at="2024-03-02T16:39:58 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TestCases@6ae5aa72]" started-at="2024-03-02T16:39:58 IST" name="setUp" finished-at="2024-03-02T16:40:05 IST" duration-ms="7229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:testCases.TestCases@6ae5aa72]" started-at="2024-03-02T16:40:05 IST" name="loginTest" finished-at="2024-03-02T16:40:11 IST" duration-ms="5506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="TakeDown()[pri:0, instance:testCases.TestCases@6ae5aa72]" started-at="2024-03-02T16:40:11 IST" name="TakeDown" finished-at="2024-03-02T16:40:11 IST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TakeDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:testCases.TestCases@6ae5aa72]" started-at="2024-03-02T16:40:11 IST" name="stop" finished-at="2024-03-02T16:40:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- testCases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
