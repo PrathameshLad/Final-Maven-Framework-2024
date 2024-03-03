@@ -61,7 +61,7 @@
                 </li>
                 <li>
                   <a href="#" panel-name="group-Excel_Based_Suite" class="navigator-link ">
-                    <span>0 groups</span>
+                    <span>1 group</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -104,7 +104,7 @@
                     <div class="method-list-content passed suite-Excel_Based_Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Excel_Based_Suite" title="testCases.TestCases" class="method navigator-link" hash-for-method="loginTest">loginTest</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Excel_Based_Suite" title="testCases.TestCases" class="method navigator-link" hash-for-method="loginTest2">loginTest2</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Excel_Based_Suite -->
@@ -127,9 +127,9 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="loginTest">
-                  </a> <!-- loginTest -->
-                  <span class="method-name">loginTest</span>
+                  <a name="loginTest2">
+                  </a> <!-- loginTest2 -->
+                  <span class="method-name">loginTest2</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -144,6 +144,11 @@
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite name=&quot;Excel Based Suite&quot;&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Excel Based Regression Testing&quot;&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;loginTest2&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testCases.TestCases&quot;/&gt;
     &lt;/classes&gt;
@@ -169,6 +174,14 @@
             <span class="header-content">Groups for Excel Based Suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">loginTest2</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">loginTest2</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="times-Excel_Based_Suite" class="panel">
@@ -187,14 +200,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'loginTest')
+data.setCell(0, 1, 'loginTest2')
 data.setCell(0, 2, 'testCases.TestCases')
-data.setCell(0, 3, 7227);
+data.setCell(0, 3, 4187);
 window.suiteTableData['Excel_Based_Suite']= { tableData: data, tableDiv: 'times-div-Excel_Based_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 7 seconds</span>
+              <span class="suite-total-time">Total running time: 4 seconds</span>
               <div id="times-div-Excel_Based_Suite">
               </div> <!-- times-div-Excel_Based_Suite -->
             </div> <!-- times-div -->
@@ -209,9 +222,18 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Excel_Based_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">0 ignored methods</span>
+            <span class="header-content">2 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">testCases.TestCases</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">loginTest3</span>
+                <br/>
+                <span class="ignored-method-name">loginTest</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="chronological-Excel_Based_Suite" class="panel">
@@ -227,19 +249,19 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">setUp</span>
-                <span class="method-start">40 ms</span>
+                <span class="method-start">18 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">loginTest</span>
-                <span class="method-start">18657 ms</span>
+                <span class="method-name">loginTest2</span>
+                <span class="method-start">15896 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">TakeDown</span>
-                <span class="method-start">25887 ms</span>
+                <span class="method-start">20083 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-class after">
                 <span class="method-name">stop</span>
-                <span class="method-start">26254 ms</span>
+                <span class="method-start">20321 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
