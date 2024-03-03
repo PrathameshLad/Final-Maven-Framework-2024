@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class TestCases extends testBase.TestBase{
 
-
+ 
 //========================================================================
 	@Test 		
 	public void loginTest() throws InterruptedException {
@@ -28,7 +28,7 @@ public class TestCases extends testBase.TestBase{
 	
 
 	//========================================================================
-		@Test 		
+		@Test 		(groups = "check")
 		public void loginTest2() throws InterruptedException {
 //			System.out.println("testclkjlkj");
 			driver.get("https://practicetestautomation.com/practice-test-login/");

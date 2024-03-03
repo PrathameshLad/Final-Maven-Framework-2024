@@ -1,3 +1,5 @@
+// Class to create a Testng.xml file with java. This will be called in "RunAutomationSuite" class for execution.
+
 package utility;
 
 //import org.apache.log4j.Logger;
@@ -8,9 +10,10 @@ import org.testng.xml.XmlTest;
 import testBase.TestBase;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 
-public class TestngRunner extends TestBase{
+public class TestngRunner2 extends TestBase{
 	static ExcelLoop excelLoop;
 	static ExtentReporterNG extentReporter = new	ExtentReporterNG();
 	static ListenersEx listeners = new ListenersEx();
@@ -42,16 +45,31 @@ public class TestngRunner extends TestBase{
         XmlClass testClass = new XmlClass("testCases.TestCases"); 
         test.setXmlClasses(Arrays.asList(testClass));
         logger.info("TestClasses Initialized");
-       
-//        System.out.println(ExcelLoop.testCaseName.get(1));
-        excelLoop = new ExcelLoop();
+
+        ExcelLoop excelLoop = new ExcelLoop();
         excelLoop.testCaseList();
-        for(int i=0;i<100;i++) {
-        	try {
-        String groupName = ExcelLoop.testCaseNames.get(i);
-        test.addIncludedGroup("check");
-        	}catch(Exception e) {}
-        }
+        ExcelLoop excelLoop2 = new ExcelLoop();
+		ArrayList<String> arrayList = excelLoop2.testCaseNames;
+		
+        logger.info("Number of Test Cases: "+arrayList.size());
+        
+        // if Number of testCases are 0 then add catch condtion - pending
+//        for(int i=0;i<arrayList.size();i++) {
+////        	logger.info("In the for loop");
+////        	try {
+//        		logger.info("In the try block");
+//        String testCaseName = ExcelLoop.testCaseNames.get(i);
+//        logger.info("get Name from excel........");
+//        logger.info("testCase currently taken: "+testCaseName);
+////        test.addIncludedGroup(groupName);
+////        test.addParameter("testCaseName", testCaseName);
+        test.addParameter("testCaseName", "loginTest2");
+//        test.addParameter("testCaseName", "loginTest3");
+//        	}catch(Exception e) {
+//        		e.printStackTrace();
+//        		logger.info("Failed to get group name");
+//        	}
+//        }
 //        test.addIncludedGroup("Regression");
         
         suite.setTests(Arrays.asList(test));

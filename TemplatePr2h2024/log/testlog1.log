@@ -4564,3 +4564,1064 @@
 2024-03-03 10:37:24,967 [main] INFO Frame1 - testCase currently taken: Homepage3
 2024-03-03 10:37:24,968 [main] INFO Frame1 - Test output file created
 2024-03-03 10:37:25,183 [main] INFO Frame1 - Logger Started
+2024-03-03 10:40:27,339 [main] INFO Frame1 - Logger Started
+2024-03-03 10:40:27,348 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 10:40:27,391 [main] INFO Frame1 - Testng Initialized
+2024-03-03 10:40:27,395 [main] INFO Frame1 - Listeners Added
+2024-03-03 10:40:27,397 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 10:40:27,626 [main] INFO Frame1 - TestClasses Initialized
+2024-03-03 10:40:27,629 [main] INFO Frame1 - ExcelHandling class Initialized
+2024-03-03 10:40:27,629 [main] INFO Frame1 - test
+2024-03-03 10:40:27,630 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,050 [main] INFO Frame1 - 8 from excel loop
+2024-03-03 10:40:29,051 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:40:29,051 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:40:29,052 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,052 [main] INFO Frame1 - in try block fis
+2024-03-03 10:40:29,121 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:40:29,122 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:40:29,132 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:40:29,132 [main] INFO Frame1 - Yes
+2024-03-03 10:40:29,133 [main] INFO Frame1 - if yes
+2024-03-03 10:40:29,133 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,133 [main] INFO Frame1 - in try block fis
+2024-03-03 10:40:29,172 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:40:29,173 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:40:29,173 [main] INFO Frame1 - 1  --Number of times value added into arraylist
+2024-03-03 10:40:29,174 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:40:29,174 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:40:29,174 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:40:29,175 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,175 [main] INFO Frame1 - in try block fis
+2024-03-03 10:40:29,211 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:40:29,212 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:40:29,213 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:40:29,213 [main] INFO Frame1 - Yes
+2024-03-03 10:40:29,213 [main] INFO Frame1 - if yes
+2024-03-03 10:40:29,214 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,214 [main] INFO Frame1 - in try block fis
+2024-03-03 10:40:29,243 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:40:29,244 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:40:29,244 [main] INFO Frame1 - 2  --Number of times value added into arraylist
+2024-03-03 10:40:29,245 [main] INFO Frame1 - add excel value 2 loginTest2
+2024-03-03 10:40:29,245 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:40:29,245 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:40:29,246 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,246 [main] INFO Frame1 - in try block fis
+2024-03-03 10:40:29,279 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:40:29,280 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:40:29,280 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:40:29,281 [main] INFO Frame1 - Smoke
+2024-03-03 10:40:29,281 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:40:29,282 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:40:29,282 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,282 [main] INFO Frame1 - in try block fis
+2024-03-03 10:40:29,310 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:40:29,311 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:40:29,311 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:40:29,312 [main] INFO Frame1 - Smoke
+2024-03-03 10:40:29,312 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:40:29,312 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:40:29,312 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,313 [main] INFO Frame1 - in try block fis
+2024-03-03 10:40:29,344 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:40:29,345 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:40:29,345 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:40:29,345 [main] INFO Frame1 - Yes
+2024-03-03 10:40:29,346 [main] INFO Frame1 - if yes
+2024-03-03 10:40:29,346 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,346 [main] INFO Frame1 - in try block fis
+2024-03-03 10:40:29,371 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:40:29,372 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:40:29,373 [main] INFO Frame1 - 5  --Number of times value added into arraylist
+2024-03-03 10:40:29,373 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:40:29,374 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:40:29,374 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:40:29,375 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,375 [main] INFO Frame1 - in try block fis
+2024-03-03 10:40:29,407 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:40:29,408 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:40:29,408 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:40:29,409 [main] INFO Frame1 - Smoke
+2024-03-03 10:40:29,409 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:40:29,409 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:40:29,409 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:40:29,409 [main] INFO Frame1 - in try block fis
+2024-03-03 10:40:29,441 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:40:29,442 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:40:29,442 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:40:29,442 [main] INFO Frame1 - Smoke
+2024-03-03 10:40:29,443 [main] INFO Frame1 - Number of Test Cases: 3
+2024-03-03 10:40:29,443 [main] INFO Frame1 - In the for loop
+2024-03-03 10:40:29,443 [main] INFO Frame1 - In the try block
+2024-03-03 10:40:29,444 [main] INFO Frame1 - get Name from excel........
+2024-03-03 10:40:29,445 [main] INFO Frame1 - testCase currently taken: loginTest
+2024-03-03 10:40:29,445 [main] INFO Frame1 - In the for loop
+2024-03-03 10:40:29,446 [main] INFO Frame1 - In the try block
+2024-03-03 10:40:29,446 [main] INFO Frame1 - get Name from excel........
+2024-03-03 10:40:29,446 [main] INFO Frame1 - testCase currently taken: loginTest2
+2024-03-03 10:40:29,446 [main] INFO Frame1 - In the for loop
+2024-03-03 10:40:29,447 [main] INFO Frame1 - In the try block
+2024-03-03 10:40:29,448 [main] INFO Frame1 - get Name from excel........
+2024-03-03 10:40:29,449 [main] INFO Frame1 - testCase currently taken: loginTest
+2024-03-03 10:40:29,450 [main] INFO Frame1 - Test output file created
+2024-03-03 10:40:29,649 [main] INFO Frame1 - Logger Started
+2024-03-03 10:40:38,385 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:40:41,539 [main] INFO Frame1 - url Loaded
+2024-03-03 10:40:41,723 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:40:41,772 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-03 10:40:47,367 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:40:47,625 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:40:47,625 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2024-03-03 10:40:47,973 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:40:53,645 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:40:56,284 [main] INFO Frame1 - url Loaded
+2024-03-03 10:40:56,464 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:40:56,466 [main] INFO Frame1 - TestCase Execution started_(loginTest2)
+2024-03-03 10:41:00,841 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:41:01,081 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:41:01,081 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest2)
+2024-03-03 10:41:01,493 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:41:07,706 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:41:10,566 [main] INFO Frame1 - url Loaded
+2024-03-03 10:41:10,751 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:41:10,752 [main] INFO Frame1 - TestCase Execution started_(loginTest3)
+2024-03-03 10:41:15,078 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:41:15,369 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:41:15,369 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest3)
+2024-03-03 10:41:16,002 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:41:16,002 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-03-03 10:41:16,845 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 10:43:01,852 [main] INFO Frame1 - Logger Started
+2024-03-03 10:43:01,863 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 10:43:01,917 [main] INFO Frame1 - Testng Initialized
+2024-03-03 10:43:01,922 [main] INFO Frame1 - Listeners Added
+2024-03-03 10:43:01,924 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 10:43:02,190 [main] INFO Frame1 - TestClasses Initialized
+2024-03-03 10:43:02,192 [main] INFO Frame1 - ExcelHandling class Initialized
+2024-03-03 10:43:02,192 [main] INFO Frame1 - test
+2024-03-03 10:43:02,193 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:03,863 [main] INFO Frame1 - 8 from excel loop
+2024-03-03 10:43:03,864 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:43:03,864 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:43:03,864 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:03,865 [main] INFO Frame1 - in try block fis
+2024-03-03 10:43:03,921 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:43:03,922 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:43:03,936 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:43:03,936 [main] INFO Frame1 - Yes
+2024-03-03 10:43:03,936 [main] INFO Frame1 - if yes
+2024-03-03 10:43:03,937 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:03,937 [main] INFO Frame1 - in try block fis
+2024-03-03 10:43:03,982 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:43:03,983 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:43:03,983 [main] INFO Frame1 - 1  --Number of times value added into arraylist
+2024-03-03 10:43:03,984 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:43:03,985 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:43:03,986 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:43:03,986 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:03,987 [main] INFO Frame1 - in try block fis
+2024-03-03 10:43:04,027 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:43:04,028 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:43:04,029 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:43:04,030 [main] INFO Frame1 - Yes
+2024-03-03 10:43:04,030 [main] INFO Frame1 - if yes
+2024-03-03 10:43:04,030 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:04,030 [main] INFO Frame1 - in try block fis
+2024-03-03 10:43:04,066 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:43:04,067 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:43:04,067 [main] INFO Frame1 - 2  --Number of times value added into arraylist
+2024-03-03 10:43:04,068 [main] INFO Frame1 - add excel value 2 loginTest2
+2024-03-03 10:43:04,068 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:43:04,068 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:43:04,068 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:04,069 [main] INFO Frame1 - in try block fis
+2024-03-03 10:43:04,100 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:43:04,101 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:43:04,101 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:43:04,101 [main] INFO Frame1 - Smoke
+2024-03-03 10:43:04,101 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:43:04,101 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:43:04,102 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:04,102 [main] INFO Frame1 - in try block fis
+2024-03-03 10:43:04,135 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:43:04,136 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:43:04,137 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:43:04,138 [main] INFO Frame1 - Smoke
+2024-03-03 10:43:04,138 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:43:04,139 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:43:04,139 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:04,139 [main] INFO Frame1 - in try block fis
+2024-03-03 10:43:04,169 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:43:04,169 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:43:04,170 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:43:04,170 [main] INFO Frame1 - Yes
+2024-03-03 10:43:04,170 [main] INFO Frame1 - if yes
+2024-03-03 10:43:04,171 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:04,171 [main] INFO Frame1 - in try block fis
+2024-03-03 10:43:04,202 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:43:04,203 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:43:04,203 [main] INFO Frame1 - 5  --Number of times value added into arraylist
+2024-03-03 10:43:04,204 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:43:04,204 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:43:04,205 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:43:04,206 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:04,207 [main] INFO Frame1 - in try block fis
+2024-03-03 10:43:04,234 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:43:04,235 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:43:04,236 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:43:04,236 [main] INFO Frame1 - Smoke
+2024-03-03 10:43:04,237 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:43:04,237 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:43:04,238 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:43:04,239 [main] INFO Frame1 - in try block fis
+2024-03-03 10:43:04,266 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:43:04,267 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:43:04,267 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:43:04,268 [main] INFO Frame1 - Smoke
+2024-03-03 10:43:04,268 [main] INFO Frame1 - Number of Test Cases: 3
+2024-03-03 10:43:04,268 [main] INFO Frame1 - In the for loop
+2024-03-03 10:43:04,269 [main] INFO Frame1 - In the try block
+2024-03-03 10:43:04,269 [main] INFO Frame1 - get Name from excel........
+2024-03-03 10:43:04,269 [main] INFO Frame1 - testCase currently taken: loginTest
+2024-03-03 10:43:04,269 [main] INFO Frame1 - In the for loop
+2024-03-03 10:43:04,270 [main] INFO Frame1 - In the try block
+2024-03-03 10:43:04,270 [main] INFO Frame1 - get Name from excel........
+2024-03-03 10:43:04,271 [main] INFO Frame1 - testCase currently taken: loginTest2
+2024-03-03 10:43:04,271 [main] INFO Frame1 - In the for loop
+2024-03-03 10:43:04,271 [main] INFO Frame1 - In the try block
+2024-03-03 10:43:04,271 [main] INFO Frame1 - get Name from excel........
+2024-03-03 10:43:04,271 [main] INFO Frame1 - testCase currently taken: loginTest
+2024-03-03 10:43:04,272 [main] INFO Frame1 - Test output file created
+2024-03-03 10:43:04,474 [main] INFO Frame1 - Logger Started
+2024-03-03 10:43:12,864 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:43:15,857 [main] INFO Frame1 - url Loaded
+2024-03-03 10:43:16,038 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:43:16,090 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-03 10:43:23,620 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:43:23,933 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:43:23,933 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2024-03-03 10:43:24,375 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:43:30,899 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:43:34,090 [main] INFO Frame1 - url Loaded
+2024-03-03 10:43:34,261 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:43:34,263 [main] INFO Frame1 - TestCase Execution started_(loginTest2)
+2024-03-03 10:43:38,816 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:43:39,042 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:43:39,042 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest2)
+2024-03-03 10:43:39,406 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:43:44,121 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:43:47,391 [main] INFO Frame1 - url Loaded
+2024-03-03 10:43:47,570 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:43:47,576 [main] INFO Frame1 - TestCase Execution started_(loginTest3)
+2024-03-03 10:43:52,399 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:43:52,632 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:43:52,633 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest3)
+2024-03-03 10:43:53,008 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:43:53,010 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-03-03 10:43:53,679 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 10:44:25,106 [main] INFO Frame1 - Logger Started
+2024-03-03 10:44:25,117 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 10:44:25,168 [main] INFO Frame1 - Testng Initialized
+2024-03-03 10:44:25,172 [main] INFO Frame1 - Listeners Added
+2024-03-03 10:44:25,174 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 10:44:25,420 [main] INFO Frame1 - TestClasses Initialized
+2024-03-03 10:44:25,424 [main] INFO Frame1 - ExcelHandling class Initialized
+2024-03-03 10:44:25,425 [main] INFO Frame1 - test
+2024-03-03 10:44:25,425 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:26,908 [main] INFO Frame1 - 8 from excel loop
+2024-03-03 10:44:26,908 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:44:26,909 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:44:26,909 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:26,909 [main] INFO Frame1 - in try block fis
+2024-03-03 10:44:26,957 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:44:26,959 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:44:26,976 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:44:26,976 [main] INFO Frame1 - Yes
+2024-03-03 10:44:26,976 [main] INFO Frame1 - if yes
+2024-03-03 10:44:26,977 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:26,977 [main] INFO Frame1 - in try block fis
+2024-03-03 10:44:27,016 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:44:27,017 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:44:27,017 [main] INFO Frame1 - 1  --Number of times value added into arraylist
+2024-03-03 10:44:27,018 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:44:27,018 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:44:27,019 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:44:27,019 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:27,020 [main] INFO Frame1 - in try block fis
+2024-03-03 10:44:27,061 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:44:27,061 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:44:27,063 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:44:27,064 [main] INFO Frame1 - Yes
+2024-03-03 10:44:27,064 [main] INFO Frame1 - if yes
+2024-03-03 10:44:27,064 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:27,065 [main] INFO Frame1 - in try block fis
+2024-03-03 10:44:27,108 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:44:27,109 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:44:27,110 [main] INFO Frame1 - 2  --Number of times value added into arraylist
+2024-03-03 10:44:27,110 [main] INFO Frame1 - add excel value 2 loginTest2
+2024-03-03 10:44:27,111 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:44:27,111 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:44:27,111 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:27,112 [main] INFO Frame1 - in try block fis
+2024-03-03 10:44:27,147 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:44:27,148 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:44:27,148 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:44:27,149 [main] INFO Frame1 - Smoke
+2024-03-03 10:44:27,149 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:44:27,150 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:44:27,150 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:27,150 [main] INFO Frame1 - in try block fis
+2024-03-03 10:44:27,184 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:44:27,185 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:44:27,185 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:44:27,186 [main] INFO Frame1 - Smoke
+2024-03-03 10:44:27,186 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:44:27,187 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:44:27,187 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:27,188 [main] INFO Frame1 - in try block fis
+2024-03-03 10:44:27,214 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:44:27,215 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:44:27,216 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:44:27,216 [main] INFO Frame1 - Yes
+2024-03-03 10:44:27,217 [main] INFO Frame1 - if yes
+2024-03-03 10:44:27,217 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:27,217 [main] INFO Frame1 - in try block fis
+2024-03-03 10:44:27,249 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:44:27,250 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:44:27,251 [main] INFO Frame1 - 5  --Number of times value added into arraylist
+2024-03-03 10:44:27,251 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:44:27,251 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:44:27,251 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:44:27,252 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:27,252 [main] INFO Frame1 - in try block fis
+2024-03-03 10:44:27,282 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:44:27,282 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:44:27,282 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:44:27,283 [main] INFO Frame1 - Smoke
+2024-03-03 10:44:27,283 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:44:27,283 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:44:27,283 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:44:27,284 [main] INFO Frame1 - in try block fis
+2024-03-03 10:44:27,314 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:44:27,314 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:44:27,315 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:44:27,315 [main] INFO Frame1 - Smoke
+2024-03-03 10:44:27,315 [main] INFO Frame1 - Number of Test Cases: 3
+2024-03-03 10:44:27,316 [main] INFO Frame1 - In the for loop
+2024-03-03 10:44:27,316 [main] INFO Frame1 - In the try block
+2024-03-03 10:44:27,317 [main] INFO Frame1 - get Name from excel........
+2024-03-03 10:44:27,317 [main] INFO Frame1 - testCase currently taken: loginTest
+2024-03-03 10:44:27,318 [main] INFO Frame1 - In the for loop
+2024-03-03 10:44:27,319 [main] INFO Frame1 - In the try block
+2024-03-03 10:44:27,319 [main] INFO Frame1 - get Name from excel........
+2024-03-03 10:44:27,320 [main] INFO Frame1 - testCase currently taken: loginTest2
+2024-03-03 10:44:27,324 [main] INFO Frame1 - In the for loop
+2024-03-03 10:44:27,329 [main] INFO Frame1 - In the try block
+2024-03-03 10:44:27,331 [main] INFO Frame1 - get Name from excel........
+2024-03-03 10:44:27,333 [main] INFO Frame1 - testCase currently taken: loginTest
+2024-03-03 10:44:27,338 [main] INFO Frame1 - Test output file created
+2024-03-03 10:44:27,605 [main] INFO Frame1 - Logger Started
+2024-03-03 10:44:34,560 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:44:37,409 [main] INFO Frame1 - url Loaded
+2024-03-03 10:44:37,588 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:44:37,633 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-03 10:44:43,120 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:44:43,381 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:44:43,381 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2024-03-03 10:44:43,759 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:44:49,522 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:44:52,304 [main] INFO Frame1 - url Loaded
+2024-03-03 10:44:52,480 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:44:52,482 [main] INFO Frame1 - TestCase Execution started_(loginTest2)
+2024-03-03 10:44:56,775 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:44:56,990 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:44:56,990 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest2)
+2024-03-03 10:44:57,384 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:45:03,919 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:45:06,818 [main] INFO Frame1 - url Loaded
+2024-03-03 10:45:06,991 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:45:06,993 [main] INFO Frame1 - TestCase Execution started_(loginTest3)
+2024-03-03 10:45:11,739 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:45:12,092 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:45:12,092 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest3)
+2024-03-03 10:45:12,457 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:45:12,460 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-03-03 10:45:13,099 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 10:46:53,646 [main] INFO Frame1 - Logger Started
+2024-03-03 10:46:53,656 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 10:46:53,705 [main] INFO Frame1 - Testng Initialized
+2024-03-03 10:46:53,710 [main] INFO Frame1 - Listeners Added
+2024-03-03 10:46:53,712 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 10:46:53,958 [main] INFO Frame1 - TestClasses Initialized
+2024-03-03 10:46:53,960 [main] INFO Frame1 - ExcelHandling class Initialized
+2024-03-03 10:46:53,960 [main] INFO Frame1 - test
+2024-03-03 10:46:53,961 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:55,742 [main] INFO Frame1 - 8 from excel loop
+2024-03-03 10:46:55,742 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:46:55,742 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:46:55,743 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:55,744 [main] INFO Frame1 - in try block fis
+2024-03-03 10:46:55,808 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:46:55,809 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:46:55,823 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:46:55,823 [main] INFO Frame1 - Yes
+2024-03-03 10:46:55,823 [main] INFO Frame1 - if yes
+2024-03-03 10:46:55,824 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:55,824 [main] INFO Frame1 - in try block fis
+2024-03-03 10:46:55,877 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:46:55,878 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:46:55,879 [main] INFO Frame1 - 1  --Number of times value added into arraylist
+2024-03-03 10:46:55,879 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:46:55,880 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:46:55,881 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:46:55,881 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:55,881 [main] INFO Frame1 - in try block fis
+2024-03-03 10:46:55,920 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:46:55,920 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:46:55,922 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:46:55,922 [main] INFO Frame1 - Yes
+2024-03-03 10:46:55,923 [main] INFO Frame1 - if yes
+2024-03-03 10:46:55,923 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:55,924 [main] INFO Frame1 - in try block fis
+2024-03-03 10:46:55,962 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:46:55,963 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:46:55,964 [main] INFO Frame1 - 2  --Number of times value added into arraylist
+2024-03-03 10:46:55,964 [main] INFO Frame1 - add excel value 2 loginTest2
+2024-03-03 10:46:55,965 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:46:55,965 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:46:55,966 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:55,966 [main] INFO Frame1 - in try block fis
+2024-03-03 10:46:56,002 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:46:56,003 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:46:56,003 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:46:56,003 [main] INFO Frame1 - Smoke
+2024-03-03 10:46:56,004 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:46:56,004 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:46:56,005 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:56,005 [main] INFO Frame1 - in try block fis
+2024-03-03 10:46:56,050 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:46:56,050 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:46:56,051 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:46:56,051 [main] INFO Frame1 - Smoke
+2024-03-03 10:46:56,052 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:46:56,052 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:46:56,052 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:56,053 [main] INFO Frame1 - in try block fis
+2024-03-03 10:46:56,090 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:46:56,090 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:46:56,091 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:46:56,092 [main] INFO Frame1 - Yes
+2024-03-03 10:46:56,092 [main] INFO Frame1 - if yes
+2024-03-03 10:46:56,092 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:56,093 [main] INFO Frame1 - in try block fis
+2024-03-03 10:46:56,131 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:46:56,131 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:46:56,132 [main] INFO Frame1 - 5  --Number of times value added into arraylist
+2024-03-03 10:46:56,132 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:46:56,132 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:46:56,133 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:46:56,133 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:56,134 [main] INFO Frame1 - in try block fis
+2024-03-03 10:46:56,165 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:46:56,166 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:46:56,167 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:46:56,167 [main] INFO Frame1 - Smoke
+2024-03-03 10:46:56,168 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:46:56,168 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:46:56,168 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:46:56,169 [main] INFO Frame1 - in try block fis
+2024-03-03 10:46:56,201 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:46:56,201 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:46:56,202 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:46:56,202 [main] INFO Frame1 - Smoke
+2024-03-03 10:46:56,203 [main] INFO Frame1 - Number of Test Cases: 3
+2024-03-03 10:46:56,204 [main] INFO Frame1 - Test output file created
+2024-03-03 10:46:56,454 [main] INFO Frame1 - Logger Started
+2024-03-03 10:47:08,867 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:47:11,784 [main] INFO Frame1 - url Loaded
+2024-03-03 10:47:11,964 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:47:12,004 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-03 10:47:17,625 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:47:17,827 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:47:17,843 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2024-03-03 10:47:18,252 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:47:23,876 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:47:27,016 [main] INFO Frame1 - url Loaded
+2024-03-03 10:47:27,179 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:47:27,181 [main] INFO Frame1 - TestCase Execution started_(loginTest2)
+2024-03-03 10:47:31,997 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:47:32,285 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:47:32,286 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest2)
+2024-03-03 10:47:32,684 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:54:17,995 [main] INFO Frame1 - Logger Started
+2024-03-03 10:54:18,006 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 10:54:18,066 [main] INFO Frame1 - Testng Initialized
+2024-03-03 10:54:18,072 [main] INFO Frame1 - Listeners Added
+2024-03-03 10:54:18,073 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 10:54:18,401 [main] INFO Frame1 - TestClasses Initialized
+2024-03-03 10:54:18,404 [main] INFO Frame1 - ExcelHandling class Initialized
+2024-03-03 10:54:18,404 [main] INFO Frame1 - test
+2024-03-03 10:54:18,405 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:19,906 [main] INFO Frame1 - 8 from excel loop
+2024-03-03 10:54:19,907 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:54:19,907 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:54:19,908 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:19,909 [main] INFO Frame1 - in try block fis
+2024-03-03 10:54:19,963 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:54:19,964 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:54:19,975 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:54:19,976 [main] INFO Frame1 - Yes
+2024-03-03 10:54:19,976 [main] INFO Frame1 - if yes
+2024-03-03 10:54:19,976 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:19,976 [main] INFO Frame1 - in try block fis
+2024-03-03 10:54:20,021 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:54:20,022 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:54:20,023 [main] INFO Frame1 - 1  --Number of times value added into arraylist
+2024-03-03 10:54:20,024 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:54:20,024 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:54:20,024 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:54:20,025 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:20,026 [main] INFO Frame1 - in try block fis
+2024-03-03 10:54:20,067 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:54:20,067 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:54:20,069 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:54:20,069 [main] INFO Frame1 - Yes
+2024-03-03 10:54:20,070 [main] INFO Frame1 - if yes
+2024-03-03 10:54:20,070 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:20,071 [main] INFO Frame1 - in try block fis
+2024-03-03 10:54:20,108 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:54:20,109 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:54:20,110 [main] INFO Frame1 - 2  --Number of times value added into arraylist
+2024-03-03 10:54:20,110 [main] INFO Frame1 - add excel value 2 loginTest2
+2024-03-03 10:54:20,111 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:54:20,111 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:54:20,112 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:20,112 [main] INFO Frame1 - in try block fis
+2024-03-03 10:54:20,145 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:54:20,145 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:54:20,146 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:54:20,146 [main] INFO Frame1 - Smoke
+2024-03-03 10:54:20,147 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:54:20,147 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:54:20,147 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:20,148 [main] INFO Frame1 - in try block fis
+2024-03-03 10:54:20,183 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:54:20,183 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:54:20,184 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:54:20,184 [main] INFO Frame1 - Smoke
+2024-03-03 10:54:20,185 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:54:20,185 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:54:20,186 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:20,186 [main] INFO Frame1 - in try block fis
+2024-03-03 10:54:20,224 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:54:20,224 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:54:20,225 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:54:20,225 [main] INFO Frame1 - Yes
+2024-03-03 10:54:20,225 [main] INFO Frame1 - if yes
+2024-03-03 10:54:20,226 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:20,226 [main] INFO Frame1 - in try block fis
+2024-03-03 10:54:20,258 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:54:20,259 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:54:20,259 [main] INFO Frame1 - 5  --Number of times value added into arraylist
+2024-03-03 10:54:20,260 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:54:20,260 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:54:20,260 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:54:20,261 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:20,261 [main] INFO Frame1 - in try block fis
+2024-03-03 10:54:20,294 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:54:20,295 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:54:20,296 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:54:20,296 [main] INFO Frame1 - Smoke
+2024-03-03 10:54:20,297 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:54:20,298 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:54:20,299 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:54:20,299 [main] INFO Frame1 - in try block fis
+2024-03-03 10:54:20,334 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:54:20,334 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:54:20,335 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:54:20,335 [main] INFO Frame1 - Smoke
+2024-03-03 10:54:20,336 [main] INFO Frame1 - Number of Test Cases: 3
+2024-03-03 10:54:20,337 [main] INFO Frame1 - Test output file created
+2024-03-03 10:54:20,553 [main] INFO Frame1 - Logger Started
+2024-03-03 10:54:29,179 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:54:32,193 [main] INFO Frame1 - url Loaded
+2024-03-03 10:54:32,356 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:54:32,392 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-03 10:54:37,612 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:54:37,861 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:54:37,861 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2024-03-03 10:54:38,301 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:54:44,432 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:54:49,206 [main] INFO Frame1 - url Loaded
+2024-03-03 10:54:49,405 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:54:49,411 [main] INFO Frame1 - TestCase Execution started_(loginTest2)
+2024-03-03 10:54:54,219 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:54:54,492 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:54:54,493 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest2)
+2024-03-03 10:54:54,889 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:55:00,554 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:55:07,804 [main] INFO Frame1 - url Loaded
+2024-03-03 10:55:07,980 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:55:07,986 [main] INFO Frame1 - TestCase Execution started_(loginTest3)
+2024-03-03 10:55:12,628 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:55:12,866 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:55:12,867 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest3)
+2024-03-03 10:55:13,175 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:55:13,178 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-03-03 10:55:13,795 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 10:56:48,535 [main] INFO Frame1 - Logger Started
+2024-03-03 10:56:48,545 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 10:56:48,595 [main] INFO Frame1 - Testng Initialized
+2024-03-03 10:56:48,601 [main] INFO Frame1 - Listeners Added
+2024-03-03 10:56:48,603 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 10:56:48,606 [main] INFO Frame1 - ExcelHandling class Initialized
+2024-03-03 10:56:48,607 [main] INFO Frame1 - test
+2024-03-03 10:56:48,607 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,096 [main] INFO Frame1 - 8 from excel loop
+2024-03-03 10:56:50,097 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:56:50,098 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:56:50,098 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,099 [main] INFO Frame1 - in try block fis
+2024-03-03 10:56:50,153 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:56:50,154 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:56:50,166 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:56:50,167 [main] INFO Frame1 - Yes
+2024-03-03 10:56:50,167 [main] INFO Frame1 - if yes
+2024-03-03 10:56:50,167 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,168 [main] INFO Frame1 - in try block fis
+2024-03-03 10:56:50,215 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:56:50,216 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:56:50,217 [main] INFO Frame1 - 1  --Number of times value added into arraylist
+2024-03-03 10:56:50,217 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:56:50,217 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:56:50,218 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:56:50,218 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,218 [main] INFO Frame1 - in try block fis
+2024-03-03 10:56:50,266 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:56:50,267 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:56:50,268 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:56:50,269 [main] INFO Frame1 - Yes
+2024-03-03 10:56:50,269 [main] INFO Frame1 - if yes
+2024-03-03 10:56:50,270 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,270 [main] INFO Frame1 - in try block fis
+2024-03-03 10:56:50,307 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:56:50,307 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:56:50,308 [main] INFO Frame1 - 2  --Number of times value added into arraylist
+2024-03-03 10:56:50,308 [main] INFO Frame1 - add excel value 2 loginTest2
+2024-03-03 10:56:50,308 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:56:50,308 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:56:50,309 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,309 [main] INFO Frame1 - in try block fis
+2024-03-03 10:56:50,342 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:56:50,343 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:56:50,343 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:56:50,344 [main] INFO Frame1 - Smoke
+2024-03-03 10:56:50,344 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:56:50,344 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:56:50,345 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,345 [main] INFO Frame1 - in try block fis
+2024-03-03 10:56:50,377 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:56:50,378 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:56:50,379 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:56:50,379 [main] INFO Frame1 - Smoke
+2024-03-03 10:56:50,380 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:56:50,380 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:56:50,380 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,381 [main] INFO Frame1 - in try block fis
+2024-03-03 10:56:50,413 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:56:50,413 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:56:50,414 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:56:50,414 [main] INFO Frame1 - Yes
+2024-03-03 10:56:50,415 [main] INFO Frame1 - if yes
+2024-03-03 10:56:50,415 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,415 [main] INFO Frame1 - in try block fis
+2024-03-03 10:56:50,448 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:56:50,449 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:56:50,449 [main] INFO Frame1 - 5  --Number of times value added into arraylist
+2024-03-03 10:56:50,450 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 10:56:50,450 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:56:50,451 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:56:50,451 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,452 [main] INFO Frame1 - in try block fis
+2024-03-03 10:56:50,486 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:56:50,486 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:56:50,488 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:56:50,488 [main] INFO Frame1 - Smoke
+2024-03-03 10:56:50,489 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 10:56:50,490 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 10:56:50,490 [main] INFO Frame1 - excel file path taken
+2024-03-03 10:56:50,491 [main] INFO Frame1 - in try block fis
+2024-03-03 10:56:50,520 [main] INFO Frame1 - before taking rowcount
+2024-03-03 10:56:50,521 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 10:56:50,521 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 10:56:50,522 [main] INFO Frame1 - Smoke
+2024-03-03 10:56:50,522 [main] INFO Frame1 - Number of Test Cases: 3
+2024-03-03 10:56:50,746 [main] INFO Frame1 - Test output file created
+2024-03-03 10:56:50,906 [main] INFO Frame1 - Logger Started
+2024-03-03 10:56:59,053 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:57:02,341 [main] INFO Frame1 - url Loaded
+2024-03-03 10:57:02,534 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:57:02,586 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-03 10:57:08,075 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:57:08,336 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:57:08,336 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2024-03-03 10:57:08,716 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:57:14,421 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:57:17,715 [main] INFO Frame1 - url Loaded
+2024-03-03 10:57:17,963 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:57:17,966 [main] INFO Frame1 - TestCase Execution started_(loginTest2)
+2024-03-03 10:57:22,895 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:57:23,186 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:57:23,187 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest2)
+2024-03-03 10:57:23,497 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:57:29,742 [main] INFO Frame1 - Chrome launched
+2024-03-03 10:57:32,622 [main] INFO Frame1 - url Loaded
+2024-03-03 10:57:32,806 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 10:57:32,808 [main] INFO Frame1 - TestCase Execution started_(loginTest3)
+2024-03-03 10:57:37,020 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 10:57:37,266 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 10:57:37,267 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest3)
+2024-03-03 10:57:37,568 [main] INFO Frame1 - Browser Closed
+2024-03-03 10:57:37,568 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-03-03 10:57:38,259 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 10:58:11,496 [main] INFO Frame1 - Logger Started
+2024-03-03 10:58:11,505 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 10:58:11,551 [main] INFO Frame1 - Testng Initialized
+2024-03-03 10:58:11,555 [main] INFO Frame1 - Listeners Added
+2024-03-03 10:58:11,557 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 11:01:48,617 [main] INFO Frame1 - Logger Started
+2024-03-03 11:01:48,625 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 11:01:48,669 [main] INFO Frame1 - Testng Initialized
+2024-03-03 11:01:48,673 [main] INFO Frame1 - Listeners Added
+2024-03-03 11:01:48,675 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 11:01:48,923 [main] ERROR Frame1 - Could not find class: loginTest2
+2024-03-03 11:01:48,927 [main] INFO Frame1 - Test output file created
+2024-03-03 11:01:49,744 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 11:02:58,360 [main] INFO Frame1 - Logger Started
+2024-03-03 11:02:58,369 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 11:02:58,414 [main] INFO Frame1 - Testng Initialized
+2024-03-03 11:02:58,420 [main] INFO Frame1 - Listeners Added
+2024-03-03 11:02:58,421 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 11:02:58,673 [main] ERROR Frame1 - Could not find class: loginTest2
+2024-03-03 11:02:58,678 [main] INFO Frame1 - Test output file created
+2024-03-03 11:02:59,461 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 11:03:47,732 [main] INFO Frame1 - Logger Started
+2024-03-03 11:03:47,741 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 11:03:47,786 [main] INFO Frame1 - Testng Initialized
+2024-03-03 11:03:47,790 [main] INFO Frame1 - Listeners Added
+2024-03-03 11:03:47,791 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 11:03:48,042 [main] ERROR Frame1 - Could not find class: loginTest2
+2024-03-03 11:03:48,048 [main] INFO Frame1 - Test output file created
+2024-03-03 11:03:48,873 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 11:04:22,684 [main] INFO Frame1 - Logger Started
+2024-03-03 11:04:22,693 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 11:04:22,748 [main] INFO Frame1 - Testng Initialized
+2024-03-03 11:04:22,753 [main] INFO Frame1 - Listeners Added
+2024-03-03 11:04:22,755 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 11:04:23,042 [main] INFO Frame1 - Test output file created
+2024-03-03 11:04:23,908 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 11:05:02,260 [main] INFO Frame1 - Logger Started
+2024-03-03 11:05:02,270 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 11:05:02,330 [main] INFO Frame1 - Testng Initialized
+2024-03-03 11:05:02,336 [main] INFO Frame1 - Listeners Added
+2024-03-03 11:05:02,338 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 11:05:02,601 [main] INFO Frame1 - Test output file created
+2024-03-03 11:05:03,406 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 11:11:38,340 [main] INFO Frame1 - Logger Started
+2024-03-03 11:11:38,351 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 11:11:38,401 [main] INFO Frame1 - Testng Initialized
+2024-03-03 11:11:38,404 [main] INFO Frame1 - Listeners Added
+2024-03-03 11:11:38,406 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 11:11:38,721 [main] INFO Frame1 - TestClasses Initialized
+2024-03-03 11:11:38,723 [main] INFO Frame1 - ExcelHandling class Initialized
+2024-03-03 11:11:38,724 [main] INFO Frame1 - test
+2024-03-03 11:11:38,725 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,310 [main] INFO Frame1 - 8 from excel loop
+2024-03-03 11:11:40,311 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:11:40,312 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:11:40,312 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,312 [main] INFO Frame1 - in try block fis
+2024-03-03 11:11:40,374 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:11:40,375 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:11:40,389 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:11:40,390 [main] INFO Frame1 - Yes
+2024-03-03 11:11:40,390 [main] INFO Frame1 - if yes
+2024-03-03 11:11:40,391 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,392 [main] INFO Frame1 - in try block fis
+2024-03-03 11:11:40,442 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:11:40,443 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:11:40,443 [main] INFO Frame1 - 1  --Number of times value added into arraylist
+2024-03-03 11:11:40,444 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 11:11:40,444 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:11:40,444 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:11:40,446 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,446 [main] INFO Frame1 - in try block fis
+2024-03-03 11:11:40,495 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:11:40,495 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:11:40,499 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:11:40,500 [main] INFO Frame1 - Yes
+2024-03-03 11:11:40,501 [main] INFO Frame1 - if yes
+2024-03-03 11:11:40,501 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,502 [main] INFO Frame1 - in try block fis
+2024-03-03 11:11:40,544 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:11:40,544 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:11:40,545 [main] INFO Frame1 - 2  --Number of times value added into arraylist
+2024-03-03 11:11:40,545 [main] INFO Frame1 - add excel value 2 loginTest2
+2024-03-03 11:11:40,545 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:11:40,546 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:11:40,546 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,547 [main] INFO Frame1 - in try block fis
+2024-03-03 11:11:40,587 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:11:40,588 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:11:40,588 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:11:40,588 [main] INFO Frame1 - Smoke
+2024-03-03 11:11:40,589 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:11:40,589 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:11:40,589 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,590 [main] INFO Frame1 - in try block fis
+2024-03-03 11:11:40,627 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:11:40,627 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:11:40,628 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:11:40,629 [main] INFO Frame1 - Smoke
+2024-03-03 11:11:40,631 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:11:40,631 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:11:40,632 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,632 [main] INFO Frame1 - in try block fis
+2024-03-03 11:11:40,670 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:11:40,671 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:11:40,673 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:11:40,673 [main] INFO Frame1 - Yes
+2024-03-03 11:11:40,674 [main] INFO Frame1 - if yes
+2024-03-03 11:11:40,674 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,674 [main] INFO Frame1 - in try block fis
+2024-03-03 11:11:40,709 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:11:40,710 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:11:40,710 [main] INFO Frame1 - 5  --Number of times value added into arraylist
+2024-03-03 11:11:40,710 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 11:11:40,711 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:11:40,711 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:11:40,711 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,712 [main] INFO Frame1 - in try block fis
+2024-03-03 11:11:40,745 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:11:40,746 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:11:40,746 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:11:40,748 [main] INFO Frame1 - Smoke
+2024-03-03 11:11:40,748 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:11:40,748 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:11:40,749 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:11:40,749 [main] INFO Frame1 - in try block fis
+2024-03-03 11:11:40,784 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:11:40,785 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:11:40,785 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:11:40,786 [main] INFO Frame1 - Smoke
+2024-03-03 11:11:40,791 [main] INFO Frame1 - Test output file created
+2024-03-03 11:11:41,019 [main] INFO Frame1 - Logger Started
+2024-03-03 11:11:49,841 [main] INFO Frame1 - Chrome launched
+2024-03-03 11:11:57,847 [main] INFO Frame1 - url Loaded
+2024-03-03 11:11:58,019 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 11:11:58,059 [main] INFO Frame1 - TestCase Execution started_(loginTest)
+2024-03-03 11:12:04,110 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 11:12:04,341 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 11:12:04,344 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest)
+2024-03-03 11:12:05,067 [main] INFO Frame1 - Browser Closed
+2024-03-03 11:12:05,072 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-03-03 11:12:06,048 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 11:12:25,923 [main] INFO Frame1 - Logger Started
+2024-03-03 11:12:25,934 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 11:12:25,988 [main] INFO Frame1 - Testng Initialized
+2024-03-03 11:12:25,993 [main] INFO Frame1 - Listeners Added
+2024-03-03 11:12:25,994 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 11:12:26,292 [main] INFO Frame1 - TestClasses Initialized
+2024-03-03 11:12:26,294 [main] INFO Frame1 - ExcelHandling class Initialized
+2024-03-03 11:12:26,295 [main] INFO Frame1 - test
+2024-03-03 11:12:26,295 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:27,827 [main] INFO Frame1 - 8 from excel loop
+2024-03-03 11:12:27,827 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:27,828 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:27,829 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:27,829 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:27,885 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:27,885 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:27,900 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:27,901 [main] INFO Frame1 - Yes
+2024-03-03 11:12:27,901 [main] INFO Frame1 - if yes
+2024-03-03 11:12:27,902 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:27,902 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:27,952 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:27,952 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:27,953 [main] INFO Frame1 - 1  --Number of times value added into arraylist
+2024-03-03 11:12:27,954 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 11:12:27,954 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:27,955 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:27,955 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:27,956 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:28,005 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:28,006 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:28,008 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:28,009 [main] INFO Frame1 - Yes
+2024-03-03 11:12:28,009 [main] INFO Frame1 - if yes
+2024-03-03 11:12:28,010 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:28,010 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:28,052 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:28,054 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:28,055 [main] INFO Frame1 - 2  --Number of times value added into arraylist
+2024-03-03 11:12:28,056 [main] INFO Frame1 - add excel value 2 loginTest2
+2024-03-03 11:12:28,056 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:28,057 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:28,057 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:28,058 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:28,157 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:28,158 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:28,158 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:28,159 [main] INFO Frame1 - Smoke
+2024-03-03 11:12:28,159 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:28,159 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:28,160 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:28,160 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:28,210 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:28,211 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:28,212 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:28,213 [main] INFO Frame1 - Smoke
+2024-03-03 11:12:28,213 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:28,214 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:28,214 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:28,215 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:28,259 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:28,260 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:28,265 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:28,265 [main] INFO Frame1 - Yes
+2024-03-03 11:12:28,266 [main] INFO Frame1 - if yes
+2024-03-03 11:12:28,267 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:28,267 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:28,323 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:28,324 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:28,324 [main] INFO Frame1 - 5  --Number of times value added into arraylist
+2024-03-03 11:12:28,325 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 11:12:28,325 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:28,325 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:28,326 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:28,326 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:28,366 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:28,367 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:28,367 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:28,368 [main] INFO Frame1 - Smoke
+2024-03-03 11:12:28,368 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:28,368 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:28,368 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:28,369 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:28,402 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:28,403 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:28,403 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:28,403 [main] INFO Frame1 - Smoke
+2024-03-03 11:12:28,409 [main] INFO Frame1 - Test output file created
+2024-03-03 11:12:28,666 [main] INFO Frame1 - Logger Started
+2024-03-03 11:12:37,266 [main] INFO Frame1 - Chrome launched
+2024-03-03 11:12:40,460 [main] INFO Frame1 - url Loaded
+2024-03-03 11:12:40,668 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 11:12:40,715 [main] INFO Frame1 - TestCase Execution started_(loginTest2)
+2024-03-03 11:12:45,279 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 11:12:45,537 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 11:12:45,541 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest2)
+2024-03-03 11:12:45,958 [main] INFO Frame1 - Browser Closed
+2024-03-03 11:12:45,963 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-03-03 11:12:46,701 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 11:12:54,913 [main] INFO Frame1 - Logger Started
+2024-03-03 11:12:54,924 [main] INFO Frame1 - Running TestCases Through Excel
+2024-03-03 11:12:54,978 [main] INFO Frame1 - Testng Initialized
+2024-03-03 11:12:54,983 [main] INFO Frame1 - Listeners Added
+2024-03-03 11:12:54,985 [main] INFO Frame1 - XmlSuite Created (Excel Based Suite)
+2024-03-03 11:12:55,259 [main] INFO Frame1 - TestClasses Initialized
+2024-03-03 11:12:55,260 [main] INFO Frame1 - ExcelHandling class Initialized
+2024-03-03 11:12:55,261 [main] INFO Frame1 - test
+2024-03-03 11:12:55,261 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:56,764 [main] INFO Frame1 - 8 from excel loop
+2024-03-03 11:12:56,764 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:56,765 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:56,765 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:56,766 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:56,823 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:56,824 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:56,835 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:56,835 [main] INFO Frame1 - Yes
+2024-03-03 11:12:56,836 [main] INFO Frame1 - if yes
+2024-03-03 11:12:56,836 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:56,836 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:56,878 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:56,879 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:56,879 [main] INFO Frame1 - 1  --Number of times value added into arraylist
+2024-03-03 11:12:56,879 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 11:12:56,880 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:56,880 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:56,880 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:56,880 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:56,922 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:56,922 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:56,924 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:56,924 [main] INFO Frame1 - Yes
+2024-03-03 11:12:56,925 [main] INFO Frame1 - if yes
+2024-03-03 11:12:56,926 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:56,926 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:56,957 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:56,957 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:56,958 [main] INFO Frame1 - 2  --Number of times value added into arraylist
+2024-03-03 11:12:56,958 [main] INFO Frame1 - add excel value 2 loginTest2
+2024-03-03 11:12:56,958 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:56,959 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:56,959 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:56,960 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:56,996 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:56,997 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:56,998 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:56,998 [main] INFO Frame1 - Smoke
+2024-03-03 11:12:56,999 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:56,999 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:57,001 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:57,001 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:57,040 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:57,041 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:57,042 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:57,042 [main] INFO Frame1 - Smoke
+2024-03-03 11:12:57,043 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:57,043 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:57,043 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:57,044 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:57,080 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:57,081 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:57,083 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:57,084 [main] INFO Frame1 - Yes
+2024-03-03 11:12:57,084 [main] INFO Frame1 - if yes
+2024-03-03 11:12:57,084 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:57,084 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:57,116 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:57,116 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:57,117 [main] INFO Frame1 - 5  --Number of times value added into arraylist
+2024-03-03 11:12:57,117 [main] INFO Frame1 - add excel value 2 loginTest
+2024-03-03 11:12:57,117 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:57,118 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:57,118 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:57,118 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:57,149 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:57,150 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:57,150 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:57,151 [main] INFO Frame1 - Smoke
+2024-03-03 11:12:57,151 [main] INFO Frame1 - Excel Loop - Test Case list for block
+2024-03-03 11:12:57,151 [main] INFO Frame1 - Excel Loop - Test Case list try block
+2024-03-03 11:12:57,151 [main] INFO Frame1 - excel file path taken
+2024-03-03 11:12:57,152 [main] INFO Frame1 - in try block fis
+2024-03-03 11:12:57,184 [main] INFO Frame1 - before taking rowcount
+2024-03-03 11:12:57,185 [main] INFO Frame1 - get physical number of rows form the sheeet: 8
+2024-03-03 11:12:57,186 [main] INFO Frame1 - decision get value 0 i 6
+2024-03-03 11:12:57,186 [main] INFO Frame1 - Smoke
+2024-03-03 11:12:57,191 [main] INFO Frame1 - Test output file created
+2024-03-03 11:12:57,387 [main] INFO Frame1 - Logger Started
+2024-03-03 11:13:08,290 [main] INFO Frame1 - Chrome launched
+2024-03-03 11:13:11,080 [main] INFO Frame1 - url Loaded
+2024-03-03 11:13:11,345 [main] INFO Frame1 - maximized Browser window and added waits
+2024-03-03 11:13:11,414 [main] INFO Frame1 - TestCase Execution started_(loginTest2)
+2024-03-03 11:13:15,925 [main] INFO Frame1 - LoginTest Case running
+2024-03-03 11:13:16,235 [main] INFO Frame1 - Screenshot Taken
+2024-03-03 11:13:16,235 [main] INFO Frame1 - TestCase Executed Successfully_(loginTest2)
+2024-03-03 11:13:16,632 [main] INFO Frame1 - Browser Closed
+2024-03-03 11:13:16,632 [main] INFO Frame1 - Automation Suite Executed Successfully
+2024-03-03 11:13:17,402 [main] INFO Frame1 - TestngXml Executed Successfully. Check for any Console errors
