@@ -1348,3 +1348,134 @@
 2024-03-03 07:36:01,426 - Frame1 -INFO - Browser Closed
 2024-03-03 07:36:01,427 - Frame1 -INFO - Automation Suite Executed Successfully
 2024-03-03 07:36:02,230 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 07:40:13,501 - Frame1 -INFO - Logger Started
+2024-03-03 07:40:13,509 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-03 07:40:13,555 - Frame1 -INFO - Testng Initialized
+2024-03-03 07:40:13,560 - Frame1 -INFO - Listeners Added
+2024-03-03 07:40:13,561 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-03 07:40:13,798 - Frame1 -INFO - TestClasses Initialized
+2024-03-03 07:40:13,804 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-03 07:40:13,809 - Frame1 -INFO - Test output file created
+2024-03-03 07:40:14,049 - Frame1 -INFO - Logger Started
+2024-03-03 07:40:23,285 - Frame1 -INFO - Chrome launched
+2024-03-03 07:40:27,191 - Frame1 -INFO - url Loaded
+2024-03-03 07:40:27,380 - Frame1 -INFO - maximized Browser window and added waits
+2024-03-03 07:40:27,430 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2024-03-03 07:40:32,983 - Frame1 -INFO - running
+2024-03-03 07:40:33,248 - Frame1 -INFO - Screenshot Taken
+2024-03-03 07:40:33,248 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2024-03-03 07:40:33,643 - Frame1 -INFO - Browser Closed
+2024-03-03 07:40:33,643 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-03-03 07:40:34,395 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 07:46:43,778 - Frame1 -INFO - Logger Started
+2024-03-03 07:46:43,787 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-03 07:46:43,849 - Frame1 -INFO - Testng Initialized
+2024-03-03 07:46:43,855 - Frame1 -INFO - Listeners Added
+2024-03-03 07:46:43,856 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-03 07:46:44,135 - Frame1 -INFO - TestClasses Initialized
+2024-03-03 07:46:44,138 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-03 07:46:44,143 - Frame1 -INFO - Test output file created
+2024-03-03 07:46:44,457 - Frame1 -INFO - Logger Started
+2024-03-03 07:46:57,426 - Frame1 -INFO - Chrome launched
+2024-03-03 07:47:00,302 - Frame1 -INFO - url Loaded
+2024-03-03 07:47:00,504 - Frame1 -INFO - maximized Browser window and added waits
+2024-03-03 07:47:00,559 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2024-03-03 07:47:05,860 - Frame1 -INFO - LoginTest Case running
+2024-03-03 07:47:06,117 - Frame1 -INFO - Screenshot Taken
+2024-03-03 07:47:06,117 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2024-03-03 07:47:06,837 - Frame1 -INFO - Browser Closed
+2024-03-03 07:47:06,837 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-03-03 07:47:07,777 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 07:47:57,044 - Frame1 -INFO - Logger Started
+2024-03-03 07:47:57,054 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-03 07:47:57,105 - Frame1 -INFO - Testng Initialized
+2024-03-03 07:47:57,110 - Frame1 -INFO - Listeners Added
+2024-03-03 07:47:57,111 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-03 07:47:57,357 - Frame1 -INFO - TestClasses Initialized
+2024-03-03 07:47:57,359 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-03 07:47:57,366 - Frame1 -INFO - Test output file created
+2024-03-03 07:47:57,689 - Frame1 -INFO - Logger Started
+2024-03-03 07:48:08,499 - Frame1 -INFO - Chrome launched
+2024-03-03 07:48:12,083 - Frame1 -INFO - url Loaded
+2024-03-03 07:48:12,293 - Frame1 -INFO - maximized Browser window and added waits
+2024-03-03 07:48:12,342 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2024-03-03 07:48:18,778 - Frame1 -INFO - LoginTest Case running
+2024-03-03 07:48:19,061 - Frame1 -INFO - Screenshot Taken
+2024-03-03 07:48:19,061 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2024-03-03 07:48:19,421 - Frame1 -INFO - Browser Closed
+2024-03-03 07:48:19,421 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-03-03 07:48:20,158 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 07:49:01,451 - Frame1 -INFO - Logger Started
+2024-03-03 07:49:01,460 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-03 07:49:01,549 - Frame1 -INFO - Testng Initialized
+2024-03-03 07:49:01,555 - Frame1 -INFO - Listeners Added
+2024-03-03 07:49:01,557 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-03 07:49:01,793 - Frame1 -INFO - TestClasses Initialized
+2024-03-03 07:49:01,795 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-03 07:49:01,800 - Frame1 -INFO - Test output file created
+2024-03-03 07:49:02,092 - Frame1 -INFO - Logger Started
+2024-03-03 07:49:13,156 - Frame1 -INFO - Chrome launched
+2024-03-03 07:49:25,165 - Frame1 -INFO - url Loaded
+2024-03-03 07:49:25,353 - Frame1 -INFO - maximized Browser window and added waits
+2024-03-03 07:49:25,400 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2024-03-03 07:49:31,945 - Frame1 -INFO - LoginTest Case running
+2024-03-03 07:49:32,185 - Frame1 -INFO - Screenshot Taken
+2024-03-03 07:49:32,187 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2024-03-03 07:49:32,567 - Frame1 -INFO - Browser Closed
+2024-03-03 07:49:32,569 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-03-03 07:49:32,591 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 07:50:04,478 - Frame1 -INFO - Logger Started
+2024-03-03 07:50:04,486 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-03 07:50:04,528 - Frame1 -INFO - Testng Initialized
+2024-03-03 07:50:04,533 - Frame1 -INFO - Listeners Added
+2024-03-03 07:50:04,534 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-03 07:50:04,751 - Frame1 -INFO - TestClasses Initialized
+2024-03-03 07:50:04,753 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-03 07:50:04,757 - Frame1 -INFO - Test output file created
+2024-03-03 07:50:04,758 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 07:51:42,992 - Frame1 -INFO - Logger Started
+2024-03-03 07:51:42,999 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-03 07:51:43,045 - Frame1 -INFO - Testng Initialized
+2024-03-03 07:51:43,048 - Frame1 -INFO - Listeners Added
+2024-03-03 07:51:43,049 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-03 07:51:43,283 - Frame1 -INFO - TestClasses Initialized
+2024-03-03 07:51:43,286 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-03 07:51:43,291 - Frame1 -INFO - Test output file created
+2024-03-03 07:51:43,525 - Frame1 -INFO - Logger Started
+2024-03-03 07:51:52,035 - Frame1 -INFO - Chrome launched
+2024-03-03 07:51:56,711 - Frame1 -INFO - url Loaded
+2024-03-03 07:51:56,903 - Frame1 -INFO - maximized Browser window and added waits
+2024-03-03 07:51:56,954 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2024-03-03 07:52:03,527 - Frame1 -INFO - LoginTest Case running
+2024-03-03 07:52:03,770 - Frame1 -INFO - Screenshot Taken
+2024-03-03 07:52:03,773 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2024-03-03 07:52:04,233 - Frame1 -INFO - Browser Closed
+2024-03-03 07:52:04,236 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-03-03 07:52:05,044 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 07:52:44,294 - Frame1 -INFO - Logger Started
+2024-03-03 07:52:44,304 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-03 07:52:44,347 - Frame1 -INFO - Testng Initialized
+2024-03-03 07:52:44,352 - Frame1 -INFO - Listeners Added
+2024-03-03 07:52:44,353 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-03 07:52:44,611 - Frame1 -INFO - TestClasses Initialized
+2024-03-03 07:52:44,612 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-03 07:52:44,617 - Frame1 -INFO - Test output file created
+2024-03-03 07:52:44,850 - Frame1 -INFO - Logger Started
+2024-03-03 07:52:54,624 - Frame1 -INFO - Chrome launched
+2024-03-03 07:52:58,258 - Frame1 -INFO - url Loaded
+2024-03-03 07:52:58,450 - Frame1 -INFO - maximized Browser window and added waits
+2024-03-03 07:52:58,496 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2024-03-03 07:53:03,825 - Frame1 -INFO - LoginTest Case running
+2024-03-03 07:53:04,071 - Frame1 -INFO - Screenshot Taken
+2024-03-03 07:53:04,087 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2024-03-03 07:53:04,497 - Frame1 -INFO - Browser Closed
+2024-03-03 07:53:10,567 - Frame1 -INFO - Chrome launched
+2024-03-03 07:53:14,020 - Frame1 -INFO - url Loaded
+2024-03-03 07:53:14,192 - Frame1 -INFO - maximized Browser window and added waits
+2024-03-03 07:53:14,193 - Frame1 -INFO - TestCase Execution started_(loginTest2)
+2024-03-03 07:53:21,136 - Frame1 -INFO - LoginTest Case running
+2024-03-03 07:53:21,347 - Frame1 -INFO - Screenshot Taken
+2024-03-03 07:53:21,347 - Frame1 -INFO - TestCase Executed Successfully_(loginTest2)
+2024-03-03 07:53:21,741 - Frame1 -INFO - Browser Closed
+2024-03-03 07:53:21,741 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-03-03 07:53:22,590 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors

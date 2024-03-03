@@ -51,7 +51,9 @@ public class TestngRunner extends TestBase{
         	try {
         String groupName = ExcelLoop.testCaseNames.get(i);
         logger.info(groupName);
-        test.addIncludedGroup(groupName);
+//        test.addIncludedGroup(groupName);
+        test.addParameter("testCaseName", "loginTest");
+        test.addParameter("testCaseName", "loginTest2");
         	}catch(Exception e) {
         		e.printStackTrace();
         	}
