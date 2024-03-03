@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import testBase.TestBase;
 
 public class ExcelLoop extends TestBase { // getting cell value only
-	public int numberOfTestCases;
+//	public int numberOfTestCases;
 	 
 	public static ArrayList<String> testCaseNames = new ArrayList<String>(); // Creating array from storing the testcases names
 
@@ -45,8 +45,8 @@ public class ExcelLoop extends TestBase { // getting cell value only
 			
 				}
 			} catch (IOException e) { 
-				numberOfTestCases = testCaseNames.size();
-				logger.info("numberOfTestCases: "+numberOfTestCases);
+//				numberOfTestCases = testCaseNames.size();
+//				logger.info("numberOfTestCases: "+numberOfTestCases);
 			break; // Break if there is no valid values coming or null values coming.
 		}
         

@@ -46,10 +46,13 @@ public class TestngRunner extends TestBase{
 //        System.out.println(ExcelLoop.testCaseName.get(1));
         excelLoop = new ExcelLoop();
         excelLoop.testCaseList();
-        for(int i=0;i<100;i++) {
+        int numberOfTestCases = excelLoop.testCaseNames.size();
+        logger.info("new number of testcases: "+numberOfTestCases);
+        for(int i=0;i<numberOfTestCases;i++) {
         	try {
         String groupName = ExcelLoop.testCaseNames.get(i);
-        test.addIncludedGroup("check");
+        test.addIncludedGroup(groupName);
+        logger.info(groupName);
         	}catch(Exception e) {}
         }
 //        test.addIncludedGroup("Regression");
