@@ -8,6 +8,8 @@ import org.testng.xml.XmlClass;
 import org.testng.xml.XmlSuite;
 import org.testng.xml.XmlTest;
 import testBase.TestBase;
+
+import java.io.IOException;
 import java.util.Arrays;
 
 public class TestngRunner extends TestBase{
@@ -18,7 +20,7 @@ public class TestngRunner extends TestBase{
 	
 	
     
-	public void runSuite() throws InterruptedException {
+	public void runSuite() throws InterruptedException, IOException {
 		TestBase tb = new TestBase();  // Initialize testbase class to run logger. As logger is not initialized while running this class.
 		tb.start();
 		logger.info("Running TestCases Through Excel");
@@ -46,16 +48,27 @@ public class TestngRunner extends TestBase{
 //        System.out.println(ExcelLoop.testCaseName.get(1));
         excelLoop = new ExcelLoop();
         excelLoop.testCaseList();
-        int rowCount = ExcelHandling.rowCount;
-        for(int i=0;i<rowCount;i++) {
+        logger.info("TestCases list taken");
+
+        ExcelLoop excelLoop = new ExcelLoop();
+        excelLoop.testCaseList();
+        ExcelLoop excelLoop2 = new ExcelLoop();
+		int numberOfTestCases = excelLoop2.numberOfTestCases;
+        logger.info("Number of Test Cases: "+numberOfTestCases);
+        for(int i=0;i<numberOfTestCases;i++) {
+        	logger.info("In the for loop");
         	try {
+        		logger.info("In the try block");
         String groupName = ExcelLoop.testCaseNames.get(i);
-        logger.info(groupName);
+        logger.info("get Name from excel........");
+        logger.info("testCase currently taken: "+groupName);
 //        test.addIncludedGroup(groupName);
         test.addParameter("testCaseName", "loginTest");
         test.addParameter("testCaseName", "loginTest2");
+        test.addParameter("testCaseName", "loginTest3");
         	}catch(Exception e) {
         		e.printStackTrace();
+        		logger.info("Failed to get group name");
         	}
         }
 //        test.addIncludedGroup("Regression");

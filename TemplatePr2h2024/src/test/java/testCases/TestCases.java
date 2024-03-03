@@ -32,7 +32,7 @@ public class TestCases extends testBase.TestBase{
 		public void loginTest2() throws InterruptedException {
 //			System.out.println("testclkjlkj");
 			driver.get("https://practicetestautomation.com/practice-test-login/");
-			loginAs.tester("student", "Password123");
+			loginAs.tester("student2", "Password123");
 //			tester.login("chirag1kirad@gmail.com", "Chirag@123123");
 //			driver.get("https://www.google.com");
 //			login.TesterLogin("chirag1kirad@gmail.com", "Chirag@123123");
@@ -44,6 +44,25 @@ public class TestCases extends testBase.TestBase{
 			takeScreenshot.save("Passed_passwordLogin");
 			
 			}
+		
+		
+		//========================================================================
+				@Test 		
+				public void loginTest3() throws InterruptedException {
+//					System.out.println("testclkjlkj");
+					driver.get("https://practicetestautomation.com/practice-test-login/");
+					loginAs.tester("student3", "Password123");
+//					tester.login("chirag1kirad@gmail.com", "Chirag@123123");
+//					driver.get("https://www.google.com");
+//					login.TesterLogin("chirag1kirad@gmail.com", "Chirag@123123");
+//					login.enterUsername("chirag1kirad@gmail.com");
+//					login.enterPassword("Chirag@123123");
+//					login.clickOnLogin();
+					Thread.sleep(2000);
+					logger.info("LoginTest Case running");
+					takeScreenshot.save("Passed_passwordLogin");
+					
+					}
 		
 		
 		
