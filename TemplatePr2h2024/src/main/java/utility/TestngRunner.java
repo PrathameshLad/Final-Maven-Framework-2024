@@ -10,6 +10,7 @@ import org.testng.xml.XmlTest;
 import testBase.TestBase;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class TestngRunner extends TestBase{
@@ -53,9 +54,12 @@ public class TestngRunner extends TestBase{
         ExcelLoop excelLoop = new ExcelLoop();
         excelLoop.testCaseList();
         ExcelLoop excelLoop2 = new ExcelLoop();
-		int numberOfTestCases = excelLoop2.numberOfTestCases;
-        logger.info("Number of Test Cases: "+numberOfTestCases);
-        for(int i=0;i<numberOfTestCases;i++) {
+		ArrayList<String> arrayList = excelLoop2.testCaseNames;
+		
+        logger.info("Number of Test Cases: "+arrayList.size());
+        
+        // if Number of testCases are 0 then add catch condtion - pending
+        for(int i=0;i<arrayList.size();i++) {
         	logger.info("In the for loop");
         	try {
         		logger.info("In the try block");

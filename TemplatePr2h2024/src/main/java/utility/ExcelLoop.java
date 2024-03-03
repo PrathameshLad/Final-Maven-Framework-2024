@@ -7,8 +7,7 @@ import testBase.TestBase;
 public class ExcelLoop extends TestBase { // getting cell value only
 	public int numberOfTestCases;
 	 
-	public static ArrayList<String> testCaseNames = new ArrayList<String>(); // Calling array from the excelHandlin class.
-
+	public static ArrayList<String> testCaseNames = new ArrayList<String>(); // Creating array from storing the testcases names
 
 	
 	public void testCaseList() throws IOException {
@@ -16,12 +15,12 @@ public class ExcelLoop extends TestBase { // getting cell value only
 		Object decision = null; // for the excel cell value which is either "Yes" OR "No"
 		ExcelHandling excelHandling = new ExcelHandling();
         logger.info("ExcelHandling class Initialized");
-        Object decisionTest= excelHandling.getCellValue(0, 1, 6); // 5th column value get of Test Case name
-        Object excelValueTest = excelHandling.getCellValue(0, 1, 5); // 5th column value get of Test Case name
+//        Object decisionTest= excelHandling.getCellValue(0, 1, 6); // 5th column value get of Test Case name
+//        Object excelValueTest = excelHandling.getCellValue(0, 1, 5); // 5th column value get of Test Case name
         logger.info("test");
         int rowCount = ExcelHandling.getRowCount(0);
         logger.info(rowCount+" from excel loop");
-        logger.info(decisionTest +"  --excel value-->"+excelValueTest);
+//        logger.info(decisionTest +"  --excel value-->"+excelValueTest);
         
 		for (int i = 1; i<rowCount;i++){
 			
@@ -38,8 +37,8 @@ public class ExcelLoop extends TestBase { // getting cell value only
 				String excelValue2 = String.valueOf(excelValue);
 
 				testCaseNames.add(excelValue2); // Added value in the array of groups. This will be accessed in testngRunner class.
-				
-				logger.info("add excel value 2");
+				logger.info(i+"  --Number of times value added into arraylist");
+				logger.info("add excel value 2 "+excelValue2);
 //				System.out.println(excelValue2); // to check if the value is correct
 //				System.out.println("Testing value"); // to check if the value is correct
 			
