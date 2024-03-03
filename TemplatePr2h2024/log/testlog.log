@@ -1148,3 +1148,203 @@
 2024-03-02 16:40:11,166 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
 2024-03-02 16:40:11,614 - Frame1 -INFO - Browser Closed
 2024-03-02 16:40:11,614 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-03-02 17:01:26,541 - Frame1 -INFO - Logger Started
+2024-03-02 17:01:26,546 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-02 17:01:26,576 - Frame1 -INFO - Testng Initialized
+2024-03-02 17:01:26,581 - Frame1 -INFO - Listeners Added
+2024-03-02 17:01:26,583 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-02 17:01:26,803 - Frame1 -INFO - TestClasses Initialized
+2024-03-02 17:01:28,184 - Frame1 -INFO - Test output file created
+2024-03-02 17:01:28,645 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-02 17:02:01,964 - Frame1 -INFO - Logger Started
+2024-03-02 17:02:01,969 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-02 17:02:01,995 - Frame1 -INFO - Testng Initialized
+2024-03-02 17:02:01,997 - Frame1 -INFO - Listeners Added
+2024-03-02 17:02:01,998 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-02 17:02:02,209 - Frame1 -INFO - TestClasses Initialized
+2024-03-02 17:02:03,396 - Frame1 -INFO - Test output file created
+2024-03-02 17:02:03,922 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-02 17:02:42,021 - Frame1 -INFO - Logger Started
+2024-03-02 17:02:42,026 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-02 17:02:42,055 - Frame1 -INFO - Testng Initialized
+2024-03-02 17:02:42,058 - Frame1 -INFO - Listeners Added
+2024-03-02 17:02:42,059 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-02 17:02:42,285 - Frame1 -INFO - TestClasses Initialized
+2024-03-02 17:02:43,488 - Frame1 -INFO - Test output file created
+2024-03-02 17:02:43,978 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-02 17:03:31,842 - Frame1 -INFO - Logger Started
+2024-03-02 17:03:31,848 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-02 17:03:31,875 - Frame1 -INFO - Testng Initialized
+2024-03-02 17:03:31,878 - Frame1 -INFO - Listeners Added
+2024-03-02 17:03:31,879 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-02 17:03:32,036 - Frame1 -INFO - TestClasses Initialized
+2024-03-02 17:03:33,236 - Frame1 -INFO - Login with incorrect passoword
+2024-03-02 17:03:33,237 - Frame1 -INFO - Regression
+2024-03-02 17:03:33,240 - Frame1 -INFO - Test output file created
+2024-03-02 17:03:33,713 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-02 17:04:16,124 - Frame1 -INFO - Logger Started
+2024-03-02 17:04:16,130 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-02 17:04:16,153 - Frame1 -INFO - Testng Initialized
+2024-03-02 17:04:16,156 - Frame1 -INFO - Listeners Added
+2024-03-02 17:04:16,157 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-02 17:04:16,330 - Frame1 -INFO - TestClasses Initialized
+2024-03-02 17:04:17,676 - Frame1 -INFO - Login with incorrect passoword
+2024-03-02 17:04:17,677 - Frame1 -INFO - Regression
+2024-03-02 17:04:17,695 - Frame1 -INFO - Test output file created
+2024-03-02 17:04:18,115 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-02 17:09:44,344 - Frame1 -INFO - Logger Started
+2024-03-02 17:09:44,350 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-02 17:09:44,377 - Frame1 -INFO - Testng Initialized
+2024-03-02 17:09:44,379 - Frame1 -INFO - Listeners Added
+2024-03-02 17:09:44,380 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-02 17:09:44,529 - Frame1 -INFO - TestClasses Initialized
+2024-03-02 17:09:44,530 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-02 17:09:44,530 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:09:44,530 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:09:45,575 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:09:45,575 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:09:45,576 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:09:45,607 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:09:45,608 - Frame1 -INFO - if yes
+2024-03-02 17:09:45,635 - Frame1 -INFO - add excel value 2
+2024-03-02 17:09:45,635 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:09:45,636 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:09:45,662 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:09:45,662 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:09:45,663 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:09:45,683 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:09:45,684 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:09:45,684 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:09:45,705 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:09:45,705 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:09:45,706 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:09:45,726 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:09:45,727 - Frame1 -INFO - if yes
+2024-03-02 17:09:45,745 - Frame1 -INFO - add excel value 2
+2024-03-02 17:09:45,745 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:09:45,745 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:09:45,768 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:09:45,768 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:09:45,769 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:09:45,790 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:09:45,790 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:09:45,791 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:09:45,811 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:09:45,811 - Frame1 -INFO - Login with incorrect passoword
+2024-03-02 17:09:45,813 - Frame1 -INFO - Regression
+2024-03-02 17:09:45,831 - Frame1 -INFO - Test output file created
+2024-03-02 17:09:46,315 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-02 17:11:13,804 - Frame1 -INFO - Logger Started
+2024-03-02 17:11:13,810 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-02 17:11:13,838 - Frame1 -INFO - Testng Initialized
+2024-03-02 17:11:13,840 - Frame1 -INFO - Listeners Added
+2024-03-02 17:11:13,841 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-02 17:11:14,035 - Frame1 -INFO - TestClasses Initialized
+2024-03-02 17:11:14,038 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-02 17:11:14,039 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:11:14,039 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:11:15,047 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:11:15,048 - Frame1 -INFO - if yes
+2024-03-02 17:11:15,077 - Frame1 -INFO - add excel value 2
+2024-03-02 17:11:15,077 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:11:15,078 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:11:15,103 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:11:15,103 - Frame1 -INFO - if yes
+2024-03-02 17:11:15,125 - Frame1 -INFO - add excel value 2
+2024-03-02 17:11:15,125 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:11:15,126 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:11:15,146 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:11:15,146 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:11:15,146 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:11:15,165 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:11:15,165 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:11:15,166 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:11:15,186 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:11:15,186 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:11:15,186 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:11:15,204 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:11:15,204 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:11:15,204 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:11:15,221 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:11:15,221 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:11:15,221 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:11:15,240 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:11:15,240 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:11:15,241 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:11:15,256 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:11:15,257 - Frame1 -INFO - Login
+2024-03-02 17:11:15,258 - Frame1 -INFO - Login with incorrect passoword
+2024-03-02 17:11:15,271 - Frame1 -INFO - Test output file created
+2024-03-02 17:11:15,727 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-02 17:21:25,626 - Frame1 -INFO - Logger Started
+2024-03-02 17:21:25,633 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-02 17:21:25,670 - Frame1 -INFO - Testng Initialized
+2024-03-02 17:21:25,676 - Frame1 -INFO - Listeners Added
+2024-03-02 17:21:25,677 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-02 17:21:25,819 - Frame1 -INFO - TestClasses Initialized
+2024-03-02 17:21:25,820 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-02 17:21:25,820 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:21:25,820 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:21:26,515 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,522 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:21:26,522 - Frame1 -INFO - if yes
+2024-03-02 17:21:26,546 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,546 - Frame1 -INFO - add excel value 2
+2024-03-02 17:21:26,547 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:21:26,547 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:21:26,568 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,569 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:21:26,569 - Frame1 -INFO - if yes
+2024-03-02 17:21:26,591 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,591 - Frame1 -INFO - add excel value 2
+2024-03-02 17:21:26,591 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:21:26,592 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:21:26,609 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,609 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:21:26,609 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:21:26,609 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:21:26,628 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,629 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:21:26,630 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:21:26,630 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:21:26,646 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,647 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:21:26,647 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:21:26,647 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:21:26,663 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,664 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:21:26,664 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:21:26,664 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:21:26,677 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,677 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:21:26,678 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:21:26,678 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:21:26,696 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,697 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:21:26,697 - Frame1 -INFO - Excel Loop - Test Case list for block
+2024-03-02 17:21:26,698 - Frame1 -INFO - Excel Loop - Test Case list try block
+2024-03-02 17:21:26,716 - Frame1 -INFO - get physical number of rows form the sheeet: 4
+2024-03-02 17:21:26,717 - Frame1 -INFO - decision get value 0 i 6
+2024-03-02 17:21:26,717 - Frame1 -INFO - Login
+2024-03-02 17:21:26,719 - Frame1 -INFO - Login with incorrect passoword
+2024-03-02 17:21:26,738 - Frame1 -INFO - Test output file created
+2024-03-02 17:21:27,102 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2024-03-03 07:35:34,526 - Frame1 -INFO - Logger Started
+2024-03-03 07:35:34,570 - Frame1 -INFO - Running TestCases Through Excel
+2024-03-03 07:35:34,634 - Frame1 -INFO - Testng Initialized
+2024-03-03 07:35:34,640 - Frame1 -INFO - Listeners Added
+2024-03-03 07:35:34,641 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2024-03-03 07:35:34,920 - Frame1 -INFO - TestClasses Initialized
+2024-03-03 07:35:34,922 - Frame1 -INFO - ExcelHandling class Initialized
+2024-03-03 07:35:34,930 - Frame1 -INFO - Test output file created
+2024-03-03 07:35:35,190 - Frame1 -INFO - Logger Started
+2024-03-03 07:35:48,814 - Frame1 -INFO - Chrome launched
+2024-03-03 07:35:53,619 - Frame1 -INFO - url Loaded
+2024-03-03 07:35:53,790 - Frame1 -INFO - maximized Browser window and added waits
+2024-03-03 07:35:53,831 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2024-03-03 07:36:00,809 - Frame1 -INFO - running
+2024-03-03 07:36:01,056 - Frame1 -INFO - Screenshot Taken
+2024-03-03 07:36:01,059 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2024-03-03 07:36:01,426 - Frame1 -INFO - Browser Closed
+2024-03-03 07:36:01,427 - Frame1 -INFO - Automation Suite Executed Successfully
+2024-03-03 07:36:02,230 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors

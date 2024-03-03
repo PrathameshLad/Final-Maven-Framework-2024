@@ -11,6 +11,8 @@ import testBase.TestBase;
 public class ExcelHandling extends TestBase{
 //	public void readExcel() throws IOException  {
 	
+	public static int rowCount;	
+	
 	public Object getCellValue(int sheetNum, int rowNum, int cellNum) throws IOException { // this method will be called with three string as parameters.
 	Object strValue = null; // Initialize an object so that cell value is stored in it whether it is Integer or string.
 		
@@ -24,6 +26,8 @@ public class ExcelHandling extends TestBase{
 		fis = new FileInputStream(file);
 		@SuppressWarnings("resource")
 		XSSFWorkbook wb= new XSSFWorkbook(fis);
+		rowCount = wb.getSheetAt(sheetNum).getPhysicalNumberOfRows();
+		logger.info("get physical number of rows form the sheeet: "+rowCount+"");
 		try {
 			strValue = wb.getSheetAt(sheetNum).getRow(rowNum).getCell(cellNum).getStringCellValue();	// To get the string value		
 		} catch (Exception e) {
