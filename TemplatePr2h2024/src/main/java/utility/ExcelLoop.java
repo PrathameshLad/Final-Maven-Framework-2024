@@ -37,9 +37,10 @@ public class ExcelLoop extends TestBase { // getting cell value only
 				String excelValue2 = String.valueOf(excelValue);
 
 				testCaseNames.add(excelValue2); // Added value in the array of groups. This will be accessed in testngRunner class.
+				
 				logger.info(i+"  --Number of times value added into arraylist");
 				logger.info("add excel value 2 "+excelValue2);
-//				System.out.println(excelValue2); // to check if the value is correct
+				System.out.println(excelValue2); // to check if the value is correct
 //				System.out.println("Testing value"); // to check if the value is correct
 			
 				}
@@ -52,7 +53,7 @@ public class ExcelLoop extends TestBase { // getting cell value only
         
 
 		}
-//		System.out.println(testCaseName);		// To check the array. This should include all the listed testcase names from the excel file which has "Yes" marked.
+//		System.out.println(excelValue2);		// To check the array. This should include all the listed testcase names from the excel file which has "Yes" marked.
 		
 	}
 	

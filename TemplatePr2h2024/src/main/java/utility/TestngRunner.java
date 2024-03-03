@@ -45,11 +45,6 @@ public class TestngRunner extends TestBase{
         XmlClass testClass = new XmlClass("testCases.TestCases"); 
         test.setXmlClasses(Arrays.asList(testClass));
         logger.info("TestClasses Initialized");
-       
-//        System.out.println(ExcelLoop.testCaseName.get(1));
-        excelLoop = new ExcelLoop();
-        excelLoop.testCaseList();
-        logger.info("TestCases list taken");
 
         ExcelLoop excelLoop = new ExcelLoop();
         excelLoop.testCaseList();
