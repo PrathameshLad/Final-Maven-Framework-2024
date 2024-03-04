@@ -1,4 +1,4 @@
-package testSuite;
+package runSuite;
 
 import java.io.IOException;
 
