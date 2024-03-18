@@ -5,11 +5,13 @@
     <classes>
       <class name="testCases.TestCases">
         <methods>
+          <include name="loginTest3"/>
           <include name="loginTest"/>
           <include name="setUp"/>
           <include name="start"/>
           <include name="TakeDown"/>
           <include name="stop"/>
+          <include name="loginTest2"/>
         </methods>
       </class> <!-- testCases.TestCases -->
     </classes>
