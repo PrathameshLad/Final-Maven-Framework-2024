@@ -6,7 +6,7 @@ public class TestCases extends testBase.TestBase{
 
  
 //========================================================================
-	@Test 		(groups = "loginTest")
+	@Test 		(groups = "loginTest", priority = -1)
 	public void loginTest() throws InterruptedException {
 //		System.out.println("testclkjlkj");
 		driver.get("https://practicetestautomation.com/practice-test-login/");
@@ -28,7 +28,7 @@ public class TestCases extends testBase.TestBase{
 	
 
 	//========================================================================
-		@Test 		(groups = "loginTest2")
+		@Test 		(groups = "loginTest2", priority = 0)
 		public void loginTest2() throws InterruptedException {
 //			System.out.println("testclkjlkj");
 			driver.get("https://practicetestautomation.com/practice-test-login/");
@@ -47,7 +47,7 @@ public class TestCases extends testBase.TestBase{
 		
 		
 		//========================================================================
-				@Test 		(groups = "loginTest3")
+				@Test 		(groups = "loginTest3", priority = 2)
 				public void loginTest3() throws InterruptedException {
 //					System.out.println("testclkjlkj");
 					driver.get("https://practicetestautomation.com/practice-test-login/");

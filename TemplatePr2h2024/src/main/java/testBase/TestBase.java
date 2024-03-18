@@ -40,7 +40,11 @@ public class TestBase {
 	{
 		logger = Logger.getLogger("Frame1");
 		PropertyConfigurator.configure("Log4j.properties");
-		logger.info("Logger Started");
+		logger.debug("Logger Initiated");
+		logger.info("Framwork Execution Started");
+		logger.debug("debug11");
+		
+		
 	}
 	
 	
@@ -56,6 +60,7 @@ public class TestBase {
 			 WebDriverManager.chromedriver().clearDriverCache().setup();
 			 driver = new ChromeDriver(co);
 			 logger.info("Chrome launched"); 
+			 
 		 }
 		 else if (br.equalsIgnoreCase("firefox"))
 		 {
