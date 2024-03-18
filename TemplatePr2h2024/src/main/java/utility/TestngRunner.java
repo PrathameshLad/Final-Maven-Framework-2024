@@ -1,5 +1,3 @@
-// Class to create a Testng.xml file with java. This will be called in "RunAutomationSuite" class for execution.
-
 package utility;
 
 //import org.apache.log4j.Logger;
@@ -8,6 +6,8 @@ import org.testng.xml.XmlClass;
 import org.testng.xml.XmlSuite;
 import org.testng.xml.XmlTest;
 import testBase.TestBase;
+
+import java.io.IOException;
 import java.util.Arrays;
 
 public class TestngRunner extends TestBase{
@@ -18,7 +18,7 @@ public class TestngRunner extends TestBase{
 	
 	
     
-	public void runSuite() throws InterruptedException {
+	public void runSuite() throws InterruptedException, IOException {
 		TestBase tb = new TestBase();  // Initialize testbase class to run logger. As logger is not initialized while running this class.
 		tb.start();
 		logger.info("Running TestCases Through Excel");
@@ -46,10 +46,13 @@ public class TestngRunner extends TestBase{
 //        System.out.println(ExcelLoop.testCaseName.get(1));
         excelLoop = new ExcelLoop();
         excelLoop.testCaseList();
-        for(int i=0;i<100;i++) {
+        int numberOfTestCases = excelLoop.testCaseNames.size();
+        logger.info("new number of testcases: "+numberOfTestCases);
+        for(int i=0;i<numberOfTestCases;i++) {
         	try {
-        String groupName = ExcelLoop.testCaseName.get(i);
+        String groupName = ExcelLoop.testCaseNames.get(i);
         test.addIncludedGroup(groupName);
+        logger.info(groupName);
         	}catch(Exception e) {}
         }
 //        test.addIncludedGroup("Regression");
